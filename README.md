@@ -36,3 +36,8 @@
 i.e. first fold contains [1,2] as the training set and [3] as the testing set and second fold contains [3] as the training set and [1,2] as the testing set.
 
 ## 3. Description
+
+Let's assume:
+**L**__: length of the input array.
+jump: Result of division between L and K after rounding up.
+rem: Remainder of division between L and K.
