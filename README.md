@@ -47,7 +47,7 @@ _**rem**_: Remainder of division between L and K.
 
 ###### Then, test cases can be summarized as follows:
 
-![image](https://user-images.githubusercontent.com/59096353/134691011-1cef9a29-4567-498c-b658-84909d1755c6.png)
+![image](https://user-images.githubusercontent.com/59096353/134691399-73f81265-6440-493b-aa38-3c94148216ce.png)
 
 
 
