@@ -16,7 +16,7 @@
 - An array that contains the arrays of folds.
 
 #### Assumptions
-- N is an integer within the range [2, ..., 100]
-- K is an integer within the range [2, ..., N]
-- Each element of array indices is an integer within the range [0, ..., 100,000]
+- N is an integer within the range [2, ..., 100].
+- K is an integer within the range [2, ..., N].
+- Each element of array indices is an integer within the range [0, ..., 100,000].
 - The elements of indices are all distinct.
