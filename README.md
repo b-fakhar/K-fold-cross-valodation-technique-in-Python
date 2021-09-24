@@ -44,3 +44,10 @@ _**L**_: length of the input array.
 _**jump**_: Result of division between L and K after rounding up.
 
 _**rem**_: Remainder of division between L and K.
+
+###### Then, test cases can be summarized as follows:
+
+![image](https://user-images.githubusercontent.com/59096353/134690488-aa98addc-505a-42ac-95a2-d59761c08a89.png)
+
+
+
