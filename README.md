@@ -21,5 +21,7 @@
 - Each element of array indices is an integer within the range [0, ..., 100,000].
 - The elements of indices are all distinct.
 
-
-![image](https://user-images.githubusercontent.com/59096353/134616365-52f506fb-e9cc-4c2d-9267-cd1d096d0010.png)
+#### Example
+- Given indices = [1,2,3] and K = 2;
+ -  one of the accepted results may be [[1,2],[3],[3],[1,2]]
+i.e. first fold contains [1,2] as the training set and [3] as the testing set and second fold contains [3] as the training set and [1,2] as the testing set.
