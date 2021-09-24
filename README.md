@@ -1,36 +1,16 @@
 # ODS Medical Inc. - Programming Assignment
 
 # Table of Contents
-1. [Example](#example)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
-
-
-## Example
-## Example2
-## Third Example
-## [Fourth Example](http://www.fourthexample.com) # Table of Contents
-1. [Example](#example)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
-
-
-## Example
-## Example2
-## Third Example
-## [Fourth Example](http://www.fourthexample.com) 
+1. [Objective](#objective)
+2. [Instructions](#instructions)
 
 
 
-
-
-
+## Objective
 - Write K-fold cross valodation technique in Python.
 -------------------------------------------------------------------------------------------
 
-### instructions
+## instructions
 
 ##### Conditions
 - Every element from the sample should be used exactly once in testing sets.
