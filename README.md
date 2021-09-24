@@ -20,3 +20,6 @@
 - K is an integer within the range [2, ..., N].
 - Each element of array indices is an integer within the range [0, ..., 100,000].
 - The elements of indices are all distinct.
+
+
+![image](https://user-images.githubusercontent.com/59096353/134616365-52f506fb-e9cc-4c2d-9267-cd1d096d0010.png)
