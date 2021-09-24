@@ -3,7 +3,8 @@
 # Table of Contents
 1. [Objective](#objective)
 2. [Instructions](#instructions)
-
+3. [Test Cases](#test cases)
+4. [Description](#description)
 
 -------------------------------------------------------------------------------------------
 ## Objective
@@ -35,3 +36,6 @@
     - One of the accepted results may be [[1,2],[3],[3],[1,2]]
 i.e. first fold contains [1,2] as the training set and [3] as the testing set and second fold contains [3] as the training set and [1,2] as the testing set.
 
+## Test Cases
+
+## Description
