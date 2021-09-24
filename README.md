@@ -39,15 +39,13 @@ i.e. first fold contains [1,2] as the training set and [3] as the testing set an
 
 ###### Let's assume:
 
-_**L**_: length of the input array.
+_**jump**_: Result of division between N and K after rounding up.
 
-_**jump**_: Result of division between L and K after rounding up.
-
-_**rem**_: Remainder of division between L and K.
+_**rem**_: Remainder of division between N and K.
 
 ###### Then, test cases can be summarized as follows:
 
-![image](https://user-images.githubusercontent.com/59096353/134691399-73f81265-6440-493b-aa38-3c94148216ce.png)
+![image](https://user-images.githubusercontent.com/59096353/134702164-73a45967-c5b8-4be2-9546-15b7bbbbb2d6.png)
 
 
 
