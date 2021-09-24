@@ -1,1 +1,1 @@
-# ODS-Medical-Inc.-Programming-Assignment
+# ODS Medical Inc. - Programming-Assignment
