@@ -45,7 +45,7 @@ _**rem**_: Remainder of the division between N and K.
 
 ###### Then, some possible test cases can be summarized as follows:
 
-![image](https://user-images.githubusercontent.com/59096353/134702164-73a45967-c5b8-4be2-9546-15b7bbbbb2d6.png)
+![image](https://user-images.githubusercontent.com/59096353/134703667-fb03cfbc-fbe2-4a32-a435-dc438774d4fa.png)
 
 
 
