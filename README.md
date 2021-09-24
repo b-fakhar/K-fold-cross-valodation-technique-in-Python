@@ -4,14 +4,8 @@ Table of Contents
 =================
 
   * [Objective](# Objective)
-  * [Screenshot](#screenshot)
-  * [Installation](#installation)
-        * [OR using Pathogen:](#or-using-pathogen)
-        * [OR using Vundle:](#or-using-vundle)
-  * [License](#license)
 
-
-# Objective
+<a name="Objective"/>
 - Write K-fold cross valodation technique in Python.
 -------------------------------------------------------------------------------------------
 
