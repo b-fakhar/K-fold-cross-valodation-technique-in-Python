@@ -39,9 +39,9 @@ i.e. first fold contains [1,2] as the training set and [3] as the testing set an
 
 ###### Let's assume:
 
-_**jump**_: Result of division between N and K after rounding up.
+_**jump**_: Result of the division between N and K after rounding up.
 
-_**rem**_: Remainder of division between N and K.
+_**rem**_: Remainder of the division between N and K.
 
 ###### Then, test cases can be summarized as follows:
 
