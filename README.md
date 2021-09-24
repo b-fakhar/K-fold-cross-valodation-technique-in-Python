@@ -43,7 +43,7 @@ _**jump**_: Result of the division between N and K after rounding up.
 
 _**rem**_: Remainder of the division between N and K.
 
-###### Then, test cases can be summarized as follows:
+###### Then, some possible test cases can be summarized as follows:
 
 ![image](https://user-images.githubusercontent.com/59096353/134702164-73a45967-c5b8-4be2-9546-15b7bbbbb2d6.png)
 
