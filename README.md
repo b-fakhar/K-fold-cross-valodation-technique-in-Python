@@ -1,6 +1,17 @@
 # ODS Medical Inc. - Programming Assignment
 
-### Objective
+Table of Contents
+=================
+
+  * [Objective](# Objective)
+  * [Screenshot](#screenshot)
+  * [Installation](#installation)
+        * [OR using Pathogen:](#or-using-pathogen)
+        * [OR using Vundle:](#or-using-vundle)
+  * [License](#license)
+
+
+# Objective
 - Write K-fold cross valodation technique in Python.
 -------------------------------------------------------------------------------------------
 
@@ -29,11 +40,4 @@
     - One of the accepted results may be [[1,2],[3],[3],[1,2]]
 i.e. first fold contains [1,2] as the training set and [3] as the testing set and second fold contains [3] as the training set and [1,2] as the testing set.
 -------------------------------------------------------------------------------------------
-➥ cat ~/projects/Dockerfile.vim/README.md | ./gh-md-toc -
-  * [Dockerfile.vim](#dockerfilevim)
-  * [Screenshot](#screenshot)
-  * [Installation](#installation)
-        * [OR using Pathogen:](#or-using-pathogen)
-        * [OR using Vundle:](#or-using-vundle)
-  * [License](#license)
 
