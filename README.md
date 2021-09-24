@@ -2,7 +2,7 @@
 
 ### Objective
 - Write K-fold cross valodation technique in Python.
-
+-------------------------------------------------------------------------------------------
 #### Conditions
 - Every element from the sample should be used exactly once in testing sets.
 - Every element from the sample should be used at least once in training sets.
