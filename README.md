@@ -3,7 +3,7 @@
 # Table of Contents
 1. [Objective](#objective)
 2. [Instructions](#instructions)
-3. [Test Cases](#test cases)
+3. [Test Cases](#testcases)
 4. [Description](#description)
 
 -------------------------------------------------------------------------------------------
