@@ -1,4 +1,4 @@
-# ODS Medical Inc. - Programming Assignment
+# K-fold cross valodation technique in Python
 
 # Table of Contents
 1. [Objective](#objective)
